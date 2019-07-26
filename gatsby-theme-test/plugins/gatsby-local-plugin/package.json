@@ -1,0 +1,6 @@
+{
+	"name": "gatsby-local-plugin",
+	"license": "MIT",
+	"version": "1.0.0",
+	"main": "index.js"
+}
